@@ -1,0 +1,5 @@
+TOKEN="6236879534:AAGVAfi_twxDwF357lDecVZs-2xSvWJHJ10"
+
+LINK_RANDOM = 'http://127.0.0.1:8000/random'
+LINK_ADD = 'http://127.0.0.1:8000/add/'
+LINK_ALL_WORDS = 'http://127.0.0.1:8000/all'
